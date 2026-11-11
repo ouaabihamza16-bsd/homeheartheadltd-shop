@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://homeheartheadltd.shop/sitemap.xml
